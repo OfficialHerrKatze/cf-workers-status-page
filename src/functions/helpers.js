@@ -54,7 +54,7 @@ export async function notifySlack(monitor, operational) {
                   monitor.method ? monitor.method : 'GET'
                 } ${monitor.url}\` - :eyes: <${
                   config.settings.url
-                }|Status Page>`,
+                }|Status Page> Negro Sex`,
               },
             ],
           },
